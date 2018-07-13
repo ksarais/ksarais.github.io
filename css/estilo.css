@@ -1,0 +1,33 @@
+body{
+   
+    margin: 0%;
+    padding-top: 100px;
+}
+#control{
+    position: fixed;
+    top: 0%;
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.8;
+
+
+    
+}
+.game{
+    width: 33.3%;
+    float: left;
+    opacity: 0.2;
+
+}
+.game img{
+      width:100%;
+    
+}
+#control img{
+    height: 40%;
+    width: 40%;
+    padding-top: 5px;
+    
+
+}
